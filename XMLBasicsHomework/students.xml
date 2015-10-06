@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students xmlns="urn:students">
+  <student>
+    <basicInformation>
+      <name>Ivan Ivanov</name>
+      <sex>male</sex>
+      <birthDate>20/10/1984</birthDate>
+      <phone>+359884555586</phone>
+      <email>ivan@gmail.com</email>
+      <course>Databases</course>
+      <specialty>IT</specialty>
+      <facultyNumber>123456</facultyNumber>
+    </basicInformation>
+    <takenExams>
+      <takenExam>
+        <examName>SQL Basics</examName>
+        <tutor>Doncho Minkov</tutor>
+        <score>6</score>
+      </takenExam>
+      <takenExam>
+        <examName>MySQL Basics</examName>
+        <tutor>Doncho Minkov</tutor>
+        <score>6</score>
+      </takenExam>
+    </takenExams>
+    <enrollment>
+      <enrollmentDate>2014-10-03</enrollmentDate>
+      <score>6</score>
+    </enrollment>
+    <teacherEndorsements>
+      <endorsments>Excellent work!</endorsments>
+    </teacherEndorsements>
+  </student>
+  <student>
+    <basicInformation>
+      <name>Dragan Ivanov</name>
+      <sex>male</sex>
+      <birthDate>20/10/1984</birthDate>
+      <phone>+359884555586</phone>
+      <email>ivan@gmail.com</email>
+      <course>Databases</course>
+      <specialty>IT</specialty>
+      <facultyNumber>123456</facultyNumber>
+    </basicInformation>
+    <takenExams>
+      <takenExam>
+        <examName>SQL Basics</examName>
+        <tutor>Doncho Minkov</tutor>
+        <score>6</score>
+      </takenExam>
+    </takenExams>
+    <enrollment>
+      <enrollmentDate>2014-10-03</enrollmentDate>
+      <score>6</score>
+    </enrollment>
+    <teacherEndorsements>
+      <endorsments>Excellent work!</endorsments>
+    </teacherEndorsements>
+  </student>
+  <student>
+    <basicInformation>
+      <name>Georgi Ivanov</name>
+      <sex>male</sex>
+      <birthDate>20/10/1984</birthDate>
+      <phone>+359884555586</phone>
+      <email>ivan@gmail.com</email>
+      <course>Databases</course>
+      <specialty>IT</specialty>
+      <facultyNumber>123456</facultyNumber>
+    </basicInformation>
+    <takenExams>
+      <takenExam>
+        <examName>SQL Basics</examName>
+        <tutor>Doncho Minkov</tutor>
+        <score>6</score>
+      </takenExam>
+      <takenExam>
+        <examName>XML Basics</examName>
+        <tutor>Doncho Minkov</tutor>
+        <score>6</score>
+      </takenExam>
+      <takenExam>
+        <examName>MySQL Basics</examName>
+        <tutor>Doncho Minkov</tutor>
+        <score>6</score>
+      </takenExam>
+    </takenExams>
+    <enrollment>
+      <enrollmentDate>2014-10-03</enrollmentDate>
+      <score>6</score>
+    </enrollment>
+    <teacherEndorsements>
+      <endorsments>Excellent work!</endorsments>
+    </teacherEndorsements>
+  </student>
+  <student>
+    <basicInformation>
+      <name>Petur Petrov</name>
+      <sex>Male</sex>
+      <birthDate>14/10/1999</birthDate>
+      <phone>+359885638952</phone>
+      <email>petur@gmail.com</email>
+      <course>Databases</course>
+      <specialty>KSI</specialty>
+      <facultyNumber>123456789</facultyNumber>
+    </basicInformation>
+    <takenExams>
+      <takenExam>
+        <examName>MySQL Basics</examName>
+        <tutor>Doncho Minkov</tutor>
+        <score>6</score>
+      </takenExam>
+    </takenExams>
+    <enrollment>
+      <enrollmentDate>2014-10-03</enrollmentDate>
+      <score>6</score>
+    </enrollment>
+    <teacherEndorsements>
+      <endorsments>Excellent work!</endorsments>
+    </teacherEndorsements>
+  </student>
+</students>
